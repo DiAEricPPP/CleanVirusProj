@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ship
+  - Terminal
+  - PushTerminal
+  - Ladder
+  - CannonUp
+  - CannonLeft
+  - CannonRight
+  - Shield
+  - Missle
+  - Lab
+  - Map
+  - Hook
+  - Bullet
+  - Germ
+  - Ally
+  - Enemy
+  - Particle
+  - Gem
+  - E_S
+  - Boss_Hand
+  - bg
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Ship
+  - Ally
+  - Gem
+  - Barricades
+  - bg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ShipOutside
+    uniqueID: 949074571
+    locked: 0
+  - name: ShipInside
+    uniqueID: 2303505493
+    locked: 0

@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 1eb3c993cf44b824286388d564c09460
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1426486914805705407
+    second: HookHead
+  - first:
+      213: 3503496110771497594
+    second: HookHand
+  - first:
+      213: 7747190604827721102
+    second: HookBase
+  - first:
+      213: 1093959692298237582
+    second: Hook_3
+  - first:
+      213: 1292910199499382840
+    second: Hook_4
+  - first:
+      213: -6295852552382944527
+    second: Hook_5
+  - first:
+      213: 7169366760257404024
+    second: Hook_6
+  - first:
+      213: -7240839125451535806
+    second: Hook_7
+  - first:
+      213: 5794772519616201568
+    second: Hook_8
+  - first:
+      213: 4706035026465854590
+    second: Hook_9
+  - first:
+      213: -2455752264834132229
+    second: Hook_10
+  - first:
+      213: 2412233240382283270
+    second: Hook_11
+  - first:
+      213: 3698280421289260351
+    second: Hook_12
+  - first:
+      213: 3258593110076035759
+    second: Hook_13
+  - first:
+      213: 1276230287228252769
+    second: Hook_14
+  - first:
+      213: 836625680234069616
+    second: Hook_15
+  - first:
+      213: -2039263830447947457
+    second: Hook_16
+  - first:
+      213: -1981600647468634044
+    second: Hook_17
+  - first:
+      213: -3855311398282830982
+    second: Hook_18
+  - first:
+      213: 5521188129022831209
+    second: Hook_19
+  - first:
+      213: 4586138937043074073
+    second: Hook_20
+  - first:
+      213: 3343221117948485244
+    second: Hook_21
+  - first:
+      213: -4632687368836534329
+    second: Hook_22
+  - first:
+      213: -2747338536984944560
+    second: Hook_23
+  - first:
+      213: 8141520387099565725
+    second: Hook_24
+  - first:
+      213: 7422912880589435666
+    second: Hook_25
+  - first:
+      213: -1387995409010362186
+    second: Hook_26
+  - first:
+      213: -4100939912742208853
+    second: Hook_27
+  - first:
+      213: -4163416929544461471
+    second: Hook_28
+  - first:
+      213: -1213371058027328671
+    second: HookHead
+  - first:
+      213: -1819695439376976385
+    second: HookHand
+  - first:
+      213: -1213371058027328671
+    second: HookHead
+  - first:
+      213: -1819695439376976385
+    second: HookBase
+  - first:
+      213: 7079411144017580157
+    second: Hook_2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HookHead
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1065
+        width: 392
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 392, y: 0, z: 0, w: 154}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b8a81937d392fe0800000000000000
+      internalID: -1213371058027328671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HookBase
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 392
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24.34143, y: 274.4687}
+        - {x: -24.34143, y: 416.24475}
+        - {x: 1.9134064, y: 416.24475}
+        - {x: 1.9134064, y: 274.4687}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5798893a42fb6e0800000000000000
+      internalID: -1819695439376976385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
